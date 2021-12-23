@@ -1,0 +1,126 @@
+{
+    "category": [
+    {
+        "name": "수학",
+        "subject": [
+            {
+                "name": "수학II",
+                "teacher": [{
+                    "name": "배지혜 선생님, 노재진 선생님",
+                    "exam": ""
+                }]
+            },
+            {
+                "name": "확률과 통계",
+                "teacher": [{
+                    "name": "주형준 선생님",
+                    "exam": ""
+                }]
+            }
+        ] 
+    },
+    {
+        "name": "국어",
+        "subject": [{
+            "name": "독서",
+            "teacher": [{
+                "name": "이수현 선생님, 강경남 선생님",
+                "exam": ""
+            }]
+        }] 
+    },
+    {
+        "name": "영어",
+        "subject": [{
+            "name": "영어I",
+            "teacher": [{
+                "name": "김정옥 선생님, 박진효 선생님",
+                "exam": ""
+            }]
+        }] 
+    },
+    {
+        "name": "사회",
+        "subject": [
+        {
+            "name": "세계 지리",
+            "teacher": [{
+                "name": "황민혜 선생님",
+                "exam": ""
+            }]
+        },
+        {
+            "name": "윤리와 사상",
+            "teacher": [{
+                "name": "정순영 선생님",
+                "exam": ""
+            }]
+        },
+        {
+            "name": "동아시아사",
+            "teacher": [{
+                "name": "김형종 선생님",
+                "exam": ""
+            }]
+        }]
+    },
+    {
+        "name": "과학",
+        "subject": [
+            {
+                "name": "물리학I",
+                "teacher": [{
+                    "name": "민현수 선생님",
+                    "exam": ""
+                }]
+            },
+            {
+                "name": "화학I",
+                "teacher": [{
+                    "name": "김혜령 선생님",
+                    "exam": ""
+                }]
+            },
+            {
+                "name": "생명I",
+                "teacher": [{
+                    "name": "박숙현 선생님",
+                    "exam": ""
+                }]
+            },
+            {
+                "name": "지구I",
+                "teacher": [{
+                    "name": "김한슬 선생님",
+                    "exam": ""
+                }]
+            }
+        ] 
+    },
+    {
+        "name": "기타",
+        "subject": [
+            {
+                "name": "건강",
+                "teacher": [{
+                    "name": "김예현 선생님",
+                    "exam": ""
+                }]
+            },
+            {
+                "name": "여행지리",
+                "teacher": [{
+                    "name": "임소연 선생님",
+                    "exam": ""
+                }]
+            },
+            {
+                "name": "생활과학",
+                "teacher": [{
+                    "name": "김한슬 선생님, 명광진 선생님",
+                    "exam": ""
+                }]
+            }
+        ] 
+    }]
+}
